@@ -5,7 +5,11 @@ Data - 'house_price.csv'
 
 
 Slides - 'chap_4-5_exercise_slides.Rmd' & 'chap_4-5_exercise_slides.html'
+
+
 Exercise - 'chap_4-5_exercise_template.Rmd'
+
+
 Exercise key - 'chap_4-5_exercise_answer.Rmd'
 
 
